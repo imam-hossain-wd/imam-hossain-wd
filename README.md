@@ -1,6 +1,6 @@
 ### Hi there 👋, Iam Imam
 ####  I am Web Developer
-![ I am Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![ I am Web Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.pn](https://i.ibb.co/6tDSWnH/istockphoto-956073060-612x612.jpg)g)
 
 Enthusiastic Full Stack Developer with a proven track record of crafting dynamic and user-centric
 web applications. Proficient in a diverse range of technologies, I am dedicated to bringing innovative
