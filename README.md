@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://imam-protfolio.netlify.app/](https://imam-protfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://imam-protfolio.netlify.app/)
 
 - 💬 Ask me about **React | Javascript | Typescript | Nextjs | ReduxJs | NodeJs | Font End Developer**
 
