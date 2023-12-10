@@ -19,29 +19,23 @@
 
 - 🌐 Explore my projects at [Portfolio](https://imam-protfolio.netlify.app/)
 
-- 💬 Let's talk about **React | JavaScript | TypeScript | Next.js | Redux.js | Node.js | Front End Development**
+- 💬 Let's talk about **React | JavaScript | TypeScript | Next.js | Redux.js | Node.js | PostgreSQL | MongoDb **
 
 - 📫 Reach me at **imamhossain6t9@gmail.com**
 
 - 📄 Check out my experiences [Resume](https://drive.google.com/file/d/1DiUwrhR6nsu77Xxutwb33407iB9xZODZ/view?usp=sharing)
 
-
 ## 💻 Technical Skills
-### Front-end Skills : 
-**JavaScript | React.js | Redux.js | Next.js | TypeScript | HTML | CSS | Tailwind CSS | Bootstrap | Firebase | NextAuth |Figma |React-hook-form | Axios**
+### Front-end Skills:
+JavaScript, React.js, Redux.js, Next.js, TypeScript , HTML, CSS ,Tailwind CSS ,Bootstrap ,Firebase ,NextAuth ,Figma
 
+### Back-end Skills:
+Node.js, Express.js, JWT, Stripe
 
-## 🚀 GitHub Repositories
-- [Portfolio Website](https://github.com/imam-hossain-wd/portfolio)
-- [Project XYZ](https://github.com/imam-hossain-wd/project-xyz)
-- [Another Project](https://github.com/imam-hossain-wd/another-project)
+### Database:
+MongoDB, PostgreSQL, Prisma, Mongoose
 
 ## 🌐 Contribution
 I am open to collaboration and contributions. Feel free to reach out for any interesting projects or opportunities.
 
-## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/imamhossain6t9/)
-- [GitHub](https://github.com/imam-hossain-wd)
-
----
 Feel free to explore my GitHub repositories and connect with me on LinkedIn and GitHub. I'm always open to exciting opportunities and collaborations!
