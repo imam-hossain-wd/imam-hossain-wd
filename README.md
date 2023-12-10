@@ -26,14 +26,25 @@
 - 📄 Check out my experiences [Resume](https://drive.google.com/file/d/1DiUwrhR6nsu77Xxutwb33407iB9xZODZ/view?usp=sharing)
 
 ## 💻 Technical Skills
-### Front-end Skills:
-JavaScript, React.js, Redux.js, Next.js, TypeScript , HTML, CSS ,Tailwind CSS ,Bootstrap ,Firebase ,NextAuth ,Figma
 
-### Back-end Skills:
-Node.js, Express.js, JWT, Stripe
+### Frontend:
+JavaScript, TypeScript, ReactJS, Next.js, ReduxJS, TailwindCSS, Bootstrap, Firebase, HTML, CSS
+
+### Backend:
+NodeJS, ExpressJS, RESTful APIs, JWT, Zod
 
 ### Database:
-MongoDB, PostgreSQL, Prisma, Mongoose
+MongoDB, Mongoose, PostgreSQL, Prisma
+
+### Tools:
+Git, GitHub, VSCode, Chrome Dev Tools, Postman, Vite, Jira
+
+### Additional Skills:
+Responsive Design, Yup, React Hook Form, Axios, TanStack Query
+
+### INTERPERSONAL SKILLS
+**Hard working , Quick learner , Team Work , Communaction, Project Management**
+
 
 ## 🌐 Contribution
 I am open to collaboration and contributions. Feel free to reach out for any interesting projects or opportunities.
