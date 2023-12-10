@@ -25,12 +25,55 @@
 
 - 📄 Check out my experiences [Resume](https://drive.google.com/file/d/1DiUwrhR6nsu77Xxutwb33407iB9xZODZ/view?usp=sharing)
 
-### 🛠️ Languages and Tools:
 
-<!-- ... (rest of the content remains unchanged) ... -->
+## 💻 Technical Skills
+
+### Front-end Skills
+- JavaScript
+- React.js
+- Redux.js
+- Next.js
+- TypeScript
+- HTML
+- CSS
+- Tailwind CSS
+- Bootstrap
+- Firebase
+- NextAuth
+- Figma
+- React-hook-form
+- Axios
+
+### Back-end Skills
+- Node.js
+- Express.js
+- JWT
+- Stripe
+- Restful API
+
+### Database
+- MongoDB
+- PostgreSQL
+- Prisma
+- Mongoose
+
+### Tools
+- Jira
+- Postman
+- VSCode
+- Vite
+
+## 🚀 GitHub Repositories
+- [Portfolio Website](https://github.com/imam-hossain-wd/portfolio)
+- [Project XYZ](https://github.com/imam-hossain-wd/project-xyz)
+- [Another Project](https://github.com/imam-hossain-wd/another-project)
+
+## 🌐 Contribution
+I am open to collaboration and contributions. Feel free to reach out for any interesting projects or opportunities.
+
+## 🤝 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/imamhossain6t9/)
+- [GitHub](https://github.com/imam-hossain-wd)
 
 ---
-
-<p align="center">
-  🌟 Feel free to explore my [Portfolio](https://imam-protfolio.netlify.app/) and connect with me on [LinkedIn](https://linkedin.com/in/imam-hossain-web-dev/) and [GitHub](https://github.com/imam-hossain-wd). I'm always open to exciting opportunities and collaborations!
-</p>
+Feel free to explore my GitHub repositories and connect with me on LinkedIn and GitHub. I'm always open to exciting opportunities and collaborations!
