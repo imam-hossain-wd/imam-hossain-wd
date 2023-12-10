@@ -27,7 +27,8 @@
 
 
 ## 💻 Technical Skills
-### Front-end Skills : JavaScript | React.js | Redux.js | Next.js | TypeScript | HTML | CSS | Tailwind CSS | Bootstrap | Firebase | NextAuth |Figma |React-hook-form |Axios
+### Front-end Skills : 
+JavaScript | React.js | Redux.js | Next.js | TypeScript | HTML | CSS | Tailwind CSS | Bootstrap | Firebase | NextAuth |Figma |React-hook-form |Axios
 
 
 ## 🚀 GitHub Repositories
