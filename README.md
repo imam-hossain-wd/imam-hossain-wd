@@ -27,22 +27,7 @@
 
 
 ## 💻 Technical Skills
-
-Frontend Skills   Backend Skills    Database       Tools
-JavaScript        Node.js           PostgreSQL     Jira
-React.js          Express.js        MongoDB        Postman
-Redux.js          JWT               Prisma         VSCode
-Next.js           Stripe            Mongoose       Vite
-TypeScript        Restful API       -              -
-HTML              -                 -              -
-CSS               -                 -              -
-Tailwind CSS      -                 -              -
-Bootstrap         -                 -              -
-Firebase          -                 -              -
-NextAuth          -                 -              -
-Figma            -                  -              -
-React-hook-form  -                 -              -
-Axios            -                 -              -
+### Front-end Skills : JavaScript | React.js | Redux.js | Next.js | TypeScript | HTML | CSS | Tailwind CSS | Bootstrap | Firebase | NextAuth |Figma |React-hook-form |Axios
 
 
 ## 🚀 GitHub Repositories
