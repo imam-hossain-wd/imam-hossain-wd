@@ -28,40 +28,22 @@
 
 ## 💻 Technical Skills
 
-### Front-end Skills
-- JavaScript
-- React.js
-- Redux.js
-- Next.js
-- TypeScript
-- HTML
-- CSS
-- Tailwind CSS
-- Bootstrap
-- Firebase
-- NextAuth
-- Figma
-- React-hook-form
-- Axios
+Frontend Skills   Backend Skills    Database       Tools
+JavaScript        Node.js           PostgreSQL     Jira
+React.js          Express.js        MongoDB        Postman
+Redux.js          JWT               Prisma         VSCode
+Next.js           Stripe            Mongoose       Vite
+TypeScript        Restful API       -              -
+HTML              -                 -              -
+CSS               -                 -              -
+Tailwind CSS      -                 -              -
+Bootstrap         -                 -              -
+Firebase          -                 -              -
+NextAuth          -                 -              -
+Figma            -                  -              -
+React-hook-form  -                 -              -
+Axios            -                 -              -
 
-### Back-end Skills
-- Node.js
-- Express.js
-- JWT
-- Stripe
-- Restful API
-
-### Database
-- MongoDB
-- PostgreSQL
-- Prisma
-- Mongoose
-
-### Tools
-- Jira
-- Postman
-- VSCode
-- Vite
 
 ## 🚀 GitHub Repositories
 - [Portfolio Website](https://github.com/imam-hossain-wd/portfolio)
